@@ -1,12 +1,12 @@
 import React from 'react'
 import './feature.css';
 
-const feature = () => {
+const Feature = () => {
   return (
     <div>
-        feature
+        Feature
     </div>
   )
 }
 
-export default feature
+export default Feature
